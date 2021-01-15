@@ -28,6 +28,7 @@ zip -a volatility3/volatility/symbols/linux.zip dizt.json.xz
 ```
 python3 vol.py  -f collected_memory.lime  yarascan.YaraScan --yara-file <rules.yar>
 ```
+
 # References
 * [https://github.com/volatilityfoundation/dwarf2json](dwarf2json)
 * [https://github.com/volatilityfoundation/volatility3](Volatility3)
