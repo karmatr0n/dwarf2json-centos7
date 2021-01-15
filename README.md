@@ -21,7 +21,7 @@ docker cp <CONTAINER ID>:/tmp/output/<distro><version>.json.xz .
 
 # Adding linux kernel profile to Volatility3
 ```
-zip -a volatility3/volatility/symbols/linux.zip dizt.json.xz
+zip -a volatility3/volatility/symbols/linux.zip <distro><version>.json.xz
 ```
 
 # Running volatility example
