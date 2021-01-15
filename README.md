@@ -32,5 +32,5 @@ python3 vol.py  -f collected_memory.lime  yarascan.YaraScan --yara-file <rules.y
 ```
 
 # References
-* [https://github.com/volatilityfoundation/dwarf2json](dwarf2json)
-* [https://github.com/volatilityfoundation/volatility3](Volatility3)
+* [dwarf2json](https://github.com/volatilityfoundation/dwarf2json)
+* [volatility3](https://github.com/volatilityfoundation/volatility3)
