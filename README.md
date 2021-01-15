@@ -6,7 +6,9 @@ Container to use the dwarf2json tool to generate Linux Profiles based on CentOS7
 ```
  docker build --tag dwarf2json-centos7:0.0.1 .
 ```
-## Note edit the Dockerfile to update the kernel version you require.
+## Note 
+
+Edit the Dockerfile to update the kernel version you need.
 
 # Running the docker container
 ```
